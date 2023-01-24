@@ -3,14 +3,14 @@ package com.portfolio.afp.Service;
 
 import com.portfolio.afp.Entity.Persona;
 import com.portfolio.afp.Interface.IPersonaService;
-import com.portfolio.afp.Repository.IPersonaResository;
+import com.portfolio.afp.Repository.IPersonaRepository;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 @Service
 public class ImpPersonaService implements IPersonaService {
-    @Autowired IPersonaResository ipersonaRepository;
+    @Autowired IPersonaRepository ipersonaRepository;
     
     
     
