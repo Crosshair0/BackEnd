@@ -1,3 +1,4 @@
+com\portfolio\afp\Service\Shys.class
 com\portfolio\afp\AfpApplication.class
 com\portfolio\afp\Security\Dto\JwtDto.class
 com\portfolio\afp\Security\MainSecurity.class
@@ -5,6 +6,7 @@ com\portfolio\afp\Security\Entity\Rol.class
 com\portfolio\afp\Controller\CEducacion.class
 com\portfolio\afp\Repository\RExperiencia.class
 com\portfolio\afp\Entity\Experiencia.class
+com\portfolio\afp\Dto\dtoHys.class
 com\portfolio\afp\Security\Service\UserDetailsImpl.class
 com\portfolio\afp\Security\Dto\LoginUsuario.class
 com\portfolio\afp\Security\Service\RolService.class
@@ -19,9 +21,12 @@ com\portfolio\afp\Security\Controller\AuthController.class
 com\portfolio\afp\Security\Entity\Usuario.class
 com\portfolio\afp\Security\Repository\iUsuarioRepository.class
 com\portfolio\afp\Service\SExperiencia.class
+com\portfolio\afp\Entity\hys.class
 com\portfolio\afp\Security\jwt\JwtProvider.class
 com\portfolio\afp\Interface\IPersonaService.class
 com\portfolio\afp\Dto\dtoEducacion.class
+com\portfolio\afp\Controller\CHys.class
+com\portfolio\afp\Repository\RHys.class
 com\portfolio\afp\Security\Controller\Mensaje.class
 com\portfolio\afp\Security\Enums\RolNombre.class
 com\portfolio\afp\Entity\Educacion.class
