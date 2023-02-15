@@ -25,7 +25,14 @@ public class Proyectos {
     @NotNull
     private String urlP;
 
-    public Proyectos(String nombreP, String descripcionP) {
+    public Proyectos() {
+    }
+
+    public Proyectos(String nombreP, String descripcionP, String img, String urlP) {
+        this.nombreP = nombreP;
+        this.descripcionP = descripcionP;
+        this.img = img;
+        this.urlP = urlP;
     }
 
     public int getId() {
@@ -67,6 +74,9 @@ public class Proyectos {
     public void setUrlP(String urlP) {
         this.urlP = urlP;
     }
+    
+
+    
     
     
     

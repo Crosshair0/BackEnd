@@ -3,6 +3,7 @@ C:\Users\sergi\Desktop\Aplicaciones y juegos\Diseño web\Lista de compras\Testeo\
 C:\Users\sergi\Desktop\Aplicaciones y juegos\Diseño web\Lista de compras\Testeo\BackEnd\src\main\java\com\portfolio\afp\Security\Service\UserDetailsImpl.java
 C:\Users\sergi\Desktop\Aplicaciones y juegos\Diseño web\Lista de compras\Testeo\BackEnd\src\main\java\com\portfolio\afp\Entity\Experiencia.java
 C:\Users\sergi\Desktop\Aplicaciones y juegos\Diseño web\Lista de compras\Testeo\BackEnd\src\main\java\com\portfolio\afp\Controller\CHys.java
+C:\Users\sergi\Desktop\Aplicaciones y juegos\Diseño web\Lista de compras\Testeo\BackEnd\src\main\java\com\portfolio\afp\Entity\Proyectos.java
 C:\Users\sergi\Desktop\Aplicaciones y juegos\Diseño web\Lista de compras\Testeo\BackEnd\src\main\java\com\portfolio\afp\Security\MainSecurity.java
 C:\Users\sergi\Desktop\Aplicaciones y juegos\Diseño web\Lista de compras\Testeo\BackEnd\src\main\java\com\portfolio\afp\Dto\dtoExperiencia.java
 C:\Users\sergi\Desktop\Aplicaciones y juegos\Diseño web\Lista de compras\Testeo\BackEnd\src\main\java\com\portfolio\afp\Repository\REducacion.java
@@ -15,6 +16,7 @@ C:\Users\sergi\Desktop\Aplicaciones y juegos\Diseño web\Lista de compras\Testeo\
 C:\Users\sergi\Desktop\Aplicaciones y juegos\Diseño web\Lista de compras\Testeo\BackEnd\src\main\java\com\portfolio\afp\Entity\Educacion.java
 C:\Users\sergi\Desktop\Aplicaciones y juegos\Diseño web\Lista de compras\Testeo\BackEnd\src\main\java\com\portfolio\afp\Security\Entity\Rol.java
 C:\Users\sergi\Desktop\Aplicaciones y juegos\Diseño web\Lista de compras\Testeo\BackEnd\src\main\java\com\portfolio\afp\Security\Enums\RolNombre.java
+C:\Users\sergi\Desktop\Aplicaciones y juegos\Diseño web\Lista de compras\Testeo\BackEnd\src\main\java\com\portfolio\afp\Dto\dtoProyectos.java
 C:\Users\sergi\Desktop\Aplicaciones y juegos\Diseño web\Lista de compras\Testeo\BackEnd\src\main\java\com\portfolio\afp\Security\Dto\JwtDto.java
 C:\Users\sergi\Desktop\Aplicaciones y juegos\Diseño web\Lista de compras\Testeo\BackEnd\src\main\java\com\portfolio\afp\Security\Service\RolService.java
 C:\Users\sergi\Desktop\Aplicaciones y juegos\Diseño web\Lista de compras\Testeo\BackEnd\src\main\java\com\portfolio\afp\Security\Service\UsuarioService.java
@@ -34,6 +36,9 @@ C:\Users\sergi\Desktop\Aplicaciones y juegos\Diseño web\Lista de compras\Testeo\
 C:\Users\sergi\Desktop\Aplicaciones y juegos\Diseño web\Lista de compras\Testeo\BackEnd\src\main\java\com\portfolio\afp\Entity\hys.java
 C:\Users\sergi\Desktop\Aplicaciones y juegos\Diseño web\Lista de compras\Testeo\BackEnd\src\main\java\com\portfolio\afp\Security\Entity\Usuario.java
 C:\Users\sergi\Desktop\Aplicaciones y juegos\Diseño web\Lista de compras\Testeo\BackEnd\src\main\java\com\portfolio\afp\Security\Repository\iUsuarioRepository.java
+C:\Users\sergi\Desktop\Aplicaciones y juegos\Diseño web\Lista de compras\Testeo\BackEnd\src\main\java\com\portfolio\afp\Service\SProyectos.java
 C:\Users\sergi\Desktop\Aplicaciones y juegos\Diseño web\Lista de compras\Testeo\BackEnd\src\main\java\com\portfolio\afp\Controller\PersonaController.java
+C:\Users\sergi\Desktop\Aplicaciones y juegos\Diseño web\Lista de compras\Testeo\BackEnd\src\main\java\com\portfolio\afp\Repository\RProyectos.java
 C:\Users\sergi\Desktop\Aplicaciones y juegos\Diseño web\Lista de compras\Testeo\BackEnd\src\main\java\com\portfolio\afp\Security\Controller\AuthController.java
 C:\Users\sergi\Desktop\Aplicaciones y juegos\Diseño web\Lista de compras\Testeo\BackEnd\src\main\java\com\portfolio\afp\Repository\RExperiencia.java
+C:\Users\sergi\Desktop\Aplicaciones y juegos\Diseño web\Lista de compras\Testeo\BackEnd\src\main\java\com\portfolio\afp\Controller\CProyectos.java

@@ -84,7 +84,7 @@ public class CProyectos {
         {
             return new ResponseEntity(new Mensaje("La Url ya existe"), HttpStatus.BAD_REQUEST);
         }
-        Proyectos proyectos = new Proyectos(dtoproyectos.getNombreP(), dtoproyectos.getDescripcionP());
+        Proyectos proyectos = new Proyectos(dtoproyectos.getNombreP(), dtoproyectos.getDescripcionP(),dtoproyectos.getImg(),dtoproyectos.getUrlP());
         sProyectos.save(proyectos);
         return new ResponseEntity(new Mensaje("Proyecto creada con exito"), HttpStatus.OK);
     }
@@ -118,6 +118,6 @@ public class CProyectos {
         proyectos.setUrlP(dtoproyectos.getUrlP());
         
         sProyectos.save(proyectos);
-        return new ResponseEntity(new Mensaje("Proyectos actualizados"),HttpStatus.OK);
+        return new ResponseEntity(new Mensaje("Proyecto actualizados"),HttpStatus.OK);
     }
 }

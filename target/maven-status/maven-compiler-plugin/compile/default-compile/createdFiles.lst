@@ -5,15 +5,19 @@ com\portfolio\afp\Security\Dto\JwtDto.class
 com\portfolio\afp\Security\MainSecurity.class
 com\portfolio\afp\Security\Entity\Rol.class
 com\portfolio\afp\Controller\CEducacion.class
+com\portfolio\afp\Repository\RProyectos.class
+com\portfolio\afp\Service\SProyectos.class
 com\portfolio\afp\Repository\RExperiencia.class
 com\portfolio\afp\Entity\Experiencia.class
 com\portfolio\afp\Dto\dtoHys.class
+com\portfolio\afp\Entity\Proyectos.class
 com\portfolio\afp\Security\Service\UserDetailsImpl.class
 com\portfolio\afp\Security\Dto\LoginUsuario.class
 com\portfolio\afp\Security\Service\RolService.class
 com\portfolio\afp\Controller\CExperiencia.class
 com\portfolio\afp\Dto\dtoExperiencia.class
 com\portfolio\afp\Security\Repository\iRolRepository.class
+com\portfolio\afp\Dto\dtoProyectos.class
 com\portfolio\afp\Service\Seducacion.class
 com\portfolio\afp\Entity\Persona.class
 com\portfolio\afp\Repository\IPersonaRepository.class
@@ -37,3 +41,4 @@ com\portfolio\afp\Security\Entity\UsuarioPrincipal.class
 com\portfolio\afp\Service\ImpPersonaService.class
 com\portfolio\afp\Security\Dto\NuevoUsuario.class
 com\portfolio\afp\Security\Service\UsuarioService.class
+com\portfolio\afp\Controller\CProyectos.class
